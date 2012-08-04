@@ -14,7 +14,7 @@ def read(fname):
 
 setup(
     name='jinja2-hamlpy',
-    version = '0.1dev',
+    version = '0.1',
     description='HamlPy extension for Jinja2',
     long_description=read('README.rst'),
     author='Nickolas Grigoriadis',
